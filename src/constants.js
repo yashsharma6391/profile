@@ -45,7 +45,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Project Section Logo's
 // import githubdetLogo from './assets/work_logo/github_det.png';
-// import csprepLogo from './assets/work_logo/cs_prep.png';
+// import csprepLogo from './assets/projects_logo/cs_prep.png';
 // import movierecLogo from './assets/work_logo/movie_rec.png';
 // import taskremLogo from './assets/work_logo/task_rem.png';
 // import npmLogo from './assets/work_logo/npm.png';
@@ -214,9 +214,10 @@ export const SkillsInfo = [
         id:0,
         title:"Product Monitoring Website",
         description:"Developed a responsive product monitoring website utilizing React.js,ensuring real-time data visualization, user-friendly interfaces, and seamless integration of APIs for comperhensive analytics",
-        image: PM_logo,
+        image:PM_logo,
         tags: ["HTML","CSS","JavaScript","React.js"],
-        Github:"#",
+        github:"https://github.com/yashsharma6391/ProductMonitoring",
+        webapp:"https://yashsharma6391.github.io/ProductMonitoring/"
        },
        {
         id:1,
@@ -224,7 +225,8 @@ export const SkillsInfo = [
         description:"This is the Static Web-design of a Travel website portal .",
         image: traveling_logo,
         tags: ["HTML","CSS","JavaScript",],
-        Github:"#",
+        github:"https://github.com/yashsharma6391/traveling",
+        webapp:"https://yashsharma6391.github.io/traveling/"
        },
 //     {
 //       id: 0,

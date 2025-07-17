@@ -38,8 +38,6 @@ function App() {
         {/* <Experience/> */}
         <Projects/>
         <Education/>
-       
-         
         <Contact/> 
         <Footer/>
        

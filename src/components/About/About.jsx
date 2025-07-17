@@ -55,7 +55,7 @@ const About = () => {
            I am a full-stack developer in building scalable  web applications.  Skilled in both front-end and back-end development, I specialize in the MERN stack and other modern technologies to create seamless user experiences and efficient solution.
         </p>
         {/* Resume button  */}
-        <a href="#"
+        <a href="https://drive.google.com/file/d/1iT5CyuunsFU-qfA2rBCj3hOS9EUyaEqU/view?usp=drivesdk "
         target='_blank'
         rel='noopener noreferrer'
         className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold tansition duration-300 transform hover:scale-105'
