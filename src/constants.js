@@ -51,8 +51,8 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 // import npmLogo from './assets/work_logo/npm.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
 // import cmLogo from './assets/work_logo/cm.png';
-// import imagesearchLogo from './assets/work_logo/image_search.png';
-// import removebgLogo from './assets/work_logo/remove_bg.png';
+import vidtube from './assets/projects_logo/favicon.png';
+import logo3 from './assets/projects_logo/logo3.png';
    import PM_logo from './assets/projects_logo/PM_logo.jpg';
    import traveling_logo from './assets/projects_logo/traveling_logo.jpg';
 
@@ -228,26 +228,26 @@ export const SkillsInfo = [
         github:"https://github.com/yashsharma6391/traveling",
         webapp:"https://yashsharma6391.github.io/traveling/"
        },
-//     {
-//       id: 0,
-//       title: "GitHub Profile Detective",
-//       description:
-//         "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
-//       image: githubdetLogo,
-//       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-//       github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-//       webapp: "https://githubprofiledetective.netlify.app/",
-//     },
-//     {
-//       id: 1,
-//       title: "CS Prep",
-//       description:
-//         "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
-//       image: csprepLogo,
-//       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-//       github: "https://github.com/codingmastr/CSPrep",
-//       webapp: "https://csprep.netlify.app/",
-//     },
+    {
+      id: 0,
+      title: "Hexicom Integrated Bridging of Technology & Infrastructure | MENN Stack",
+      description:
+        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
+      image: logo3,
+      tags: ["HTML", "CSS", "JavaScript", "Next.JS", "API" ,"Express.JS"],
+      github: "#",
+      webapp: "https://www.hexicom.in/",
+    },
+    {
+      id: 1,
+      title: "CS Prep",
+      description:
+        "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
+      image: vidtube ,
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/yashsharma6391/VidTube",
+      webapp: "https://vid-tube-six.vercel.app/",
+    },
 //     {
 //       id: 2,
 //       title: "Movie Recommendation App",
